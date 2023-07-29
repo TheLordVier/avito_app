@@ -2,7 +2,7 @@
 
 Project developed by: Mikhailov Alexander
 
-## Структура приложения:
+## Application structure:
 
 - **Directory frontend_react** - *Directory with the frontend part of the application*
 
