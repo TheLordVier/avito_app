@@ -1,15 +1,15 @@
-## Курсовая работа №6. Разработка API на Django. 
+## Avito app (website project with ads)
 
-Студент: Михайлов Александр
+Project developed by: Mikhailov Alexander
 
 ## Структура приложения:
 
-- **Директория frontend_react** - *Директория с frontend частью приложения*
+- **Directory frontend_react** - *Directory with the frontend part of the application*
 
-- **Директория market_postgres** - *Директория с настройками docker-compose и nginx*
+- **Directory market_postgres** - *Directory with docker-compose and nginx settings*
 
-- **Директория skymarket** - *Директория с основной django (backend) частью приложения*
+- **Directory skymarket** - *Directory with the main django (backend) part of the application*
 
-**requirements.txt** - *зависимости приложения*
+**requirements.txt** - *application dependencies*
 
-**.gitignore** - *файлы и папки для игнорирования в системе контроля версий Git*
+**.gitignore** - *files and folders to ignore in Git version control*
